@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wF+N78vizOMpP18cyXHYDLaoGYxhhmcCWMZDZALScVU=",
+  "Source": "Core_API_withoutDB",
+  "BasePath": "_content/Core_API_withoutDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

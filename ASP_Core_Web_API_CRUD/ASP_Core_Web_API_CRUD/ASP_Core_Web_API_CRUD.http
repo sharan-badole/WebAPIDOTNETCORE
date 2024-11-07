@@ -1,0 +1,6 @@
+@ASP_Core_Web_API_CRUD_HostAddress = http://localhost:5101
+
+GET {{ASP_Core_Web_API_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

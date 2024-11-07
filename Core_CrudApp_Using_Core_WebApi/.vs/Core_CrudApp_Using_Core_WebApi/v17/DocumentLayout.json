@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_core\\core_crudapp_using_core_webapi\\core_crudapp_using_core_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AE4D3F-03F8-4F22-8F02-9CAB6AFCCE50}|Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi.csproj|solutionrelative:core_crudapp_using_core_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:18:38.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:16:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:00:23.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:25:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:22:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:22:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Program.cs",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:45:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T19:42:31.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswHMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:20:08.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core_CrudApp_Using_Core_WebApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Core\\Core_CrudApp_Using_Core_WebApi\\Core_CrudApp_Using_Core_WebApi\\Models\\Student.cs",
+              "RelativeToolTip": "Core_CrudApp_Using_Core_WebApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:05:33.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
